@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<PurchaseOrder PurchaseOrderNumber="99503" OrderDat="2020" TestD="Dima">
+	<Address Type="Shipping">
+		<Name>Ellen Adams</Name>
+		<Street>123 Maple Street</Street>
+		<City>Mill Valley</City>
+		<State>CA</State>
+		<Zip>10999</Zip>
+		<Country>USA</Country>
+	</Address>
+	<Address Type="Billing">
+		<Name>Tai Yee</Name>
+		<Street>8 Oak Avenue</Street>
+		<City>Old Town</City>
+		<State>PA</State>
+		<Zip>95819</Zip>
+		<Country>USA</Country>
+	</Address>
+	<DeliveryNotes>Please leave packages in shed by driveway.</DeliveryNotes>
+</PurchaseOrder>

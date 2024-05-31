@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<auto-catalog>
+	<creation-date>2010-02-21 22:22:22 GMT+3</creation-date>
+	<host>www.ru.ru</host>
+	<offers>
+		<url>http://www.ru.ru/cars/1234.html</url>
+		<date>2010-02-21 22:22:22 GMT+3</date>
+		<update-date>2010-05-16 11:11:11 GMT+3</update-date>
+		<valid-thru-date>20.02.2008</valid-thru-date>
+		<mark>Renault</mark>
+		<model>Logan</model>
+		<year>2006</year>
+		<run-metric>км</run-metric>
+		<run>75000</run>
+		<additional-info>Описание автомобиля</additional-info>
+		<state>Отличное</state>
+		<color>Черный</color>
+		<body-type>Седан</body-type>
+		<engine-type>Бензин инжектор</engine-type>
+		<gear-type>Передений</gear-type>
+		<displacement>1600</displacement>
+		<transmission>Автомат</transmission>
+		<steering-wheel>Левый</steering-wheel>
+		<haggle>Возможен</haggle>
+		<custom-house-state>Растаможен</custom-house-state>
+		<equipment>Магнитола (CD)</equipment>
+		<equipment>Омыватель фар</equipment>
+		<equipment>Охранная система</equipment>
+		<equipment>Рег-ка сиденья водителя (электропривод)</equipment>
+		<equipment>Рег-ка сиденья пассажира (электропривод)</equipment>
+		<equipment>Регулировка руля (в 2х пл.)</equipment>
+		<equipment>Салон (велюр)</equipment>
+		<equipment>Тонированные стекла</equipment>
+		<equipment>Усилитель рулевого управления (гидро)</equipment>
+		<equipment>Центральный замок</equipment>
+		<equipment>Электрозеркала</equipment>
+		<equipment>Электростеклоподъемники (все)</equipment>
+		<image>http://ru.ru/images/682cd2cc.jpg</image>
+		<image>http://ru.ru/images/682cd2cc2.jpg</image>
+		<vin>WAUJC68E82A012</vin>
+		<price>9500</price>
+		<currency-type>$</currency-type>
+		<seller>Иван Иванович</seller>
+		<seller-phone>(495) 000-00-00</seller-phone>
+		<seller-phone>(495) 000-00-00</seller-phone>
+		<seller-city>Москва</seller-city>
+		<car-location>Франция</car-location>
+		<stock>в наличии</stock>
+	</offers>
+	<test>none</test>
+</auto-catalog>
